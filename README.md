@@ -1,2 +1,2 @@
-# hiddenmessages
+# Hidden Messages
 Online puzzle
